@@ -1,0 +1,13 @@
+body{
+    font-family: Arial,Sanrif;
+    background-color:#f4f6f9;
+    text-align : center;
+    padding-top: 100px;
+}
+.container{
+    background-color: rgb(7, 7, 7);
+    border-radius: 10px;
+box-shadow: 04px 8px rgba(110, 227, 188, 0.2);
+display:inline-block;
+padding-top: 40px;
+}
